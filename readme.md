@@ -1,3 +1,3 @@
-# Git and github course
+# Sushi house website
 
-crash course gor git
+дедлайн 30.12.2021
